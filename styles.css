@@ -26,7 +26,8 @@ body{
     border-radius: 10px;
     box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
     background-color: #fff;
-    margin: 164px auto auto auto;
+    margin: auto auto;
+    margin-top: 164px;
 }
 
 .card-img{
